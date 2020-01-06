@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on site</title>
+    <link>/baseball/2019/</link>
+    <description>Recent content in 2019 on site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/baseball/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retrospective</title>
+      <link>/baseball/2019/retrospective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2019/retrospective/</guid>
+      <description>What went well? Where could we have done better? Or where should we improve? If there were 2 things we could have done differently, what would they be and why? </description>
+    </item>
+    
+  </channel>
+</rss>

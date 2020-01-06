@@ -1,21 +1,70 @@
 [
 {
-	"uri": "/basics/",
-	"title": "Basics",
+	"uri": "/baseball/",
+	"title": "Baseball",
 	"tags": [],
 	"description": "",
-	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
+	"content": "Baseball Stuff "
 },
 {
-	"uri": "/",
-	"title": "",
+	"uri": "/baseball/2019/",
+	"title": "2019",
+	"tags": [],
+	"description": "",
+	"content": "Storm Baseball 9AAA "
+},
+{
+	"uri": "/baseball/2020/",
+	"title": "2020",
+	"tags": [],
+	"description": "",
+	"content": "Storm Baseball 10AAA "
+},
+{
+	"uri": "/baseball/2020/training/hitting/",
+	"title": "Hitting",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
+	"uri": "/baseball/2020/preseason/",
+	"title": "Preseason",
+	"tags": [],
+	"description": "",
+	"content": "Goals Objectives "
+},
+{
+	"uri": "/baseball/2019/retrospective/",
+	"title": "Retrospective",
+	"tags": [],
+	"description": "",
+	"content": "What went well? Where could we have done better? Or where should we improve? If there were 2 things we could have done differently, what would they be and why? "
+},
+{
+	"uri": "/baseball/2020/regular/",
+	"title": "Regular Season",
+	"tags": [],
+	"description": "",
+	"content": "Goals Objectives "
+},
+{
+	"uri": "/baseball/2020/training/",
+	"title": "Training",
+	"tags": [],
+	"description": "",
+	"content": "Training "
+},
+{
 	"uri": "/categories/",
 	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/",
+	"title": "site",
 	"tags": [],
 	"description": "",
 	"content": ""

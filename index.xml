@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>site</title>
     <link>/</link>
-    <description>Recent content on </description>
+    <description>Recent content on site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hitting</title>
+      <link>/baseball/2020/training/hitting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2020/training/hitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preseason</title>
+      <link>/baseball/2020/preseason/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2020/preseason/</guid>
+      <description>Goals Objectives </description>
+    </item>
+    
+    <item>
+      <title>Retrospective</title>
+      <link>/baseball/2019/retrospective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2019/retrospective/</guid>
+      <description>What went well? Where could we have done better? Or where should we improve? If there were 2 things we could have done differently, what would they be and why? </description>
+    </item>
+    
+    <item>
+      <title>Regular Season</title>
+      <link>/baseball/2020/regular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2020/regular/</guid>
+      <description>Goals Objectives </description>
+    </item>
     
   </channel>
 </rss>
