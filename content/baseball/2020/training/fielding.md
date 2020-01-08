@@ -9,7 +9,7 @@ Our motto for infielders this year is "You play the ball ... don't let the ball 
 Fielding is really three fold: technique, footwork, and timing.  The drills below are intended to address one of these areas.  From a coaching perspective, we will need to introduce them in that order to be as efficient as possible and ensure skills are mastered before introducing new topics.
 
 #### Knee Drill
-[![hands routine](/images/hands_knee_drill.png?height=300px&width=600px)](https://youtu.be/SHA1orN7eHE?start=62&end=270 "Hands Routine")
+[![hands routine](/images/hands_knee_drill.png)](https://youtu.be/SHA1orN7eHE?start=62&end=270 "Hands Routine")
 
 **Duration:** 10 minutes
 
@@ -39,7 +39,7 @@ Fielding is really three fold: technique, footwork, and timing.  The drills belo
 - Never close the glove when fielding in the the framework of your body
 
 #### Standing Drill
-[![hands routine](/images/hands_stand_drill.png?height=300px&width=600px)](https://youtu.be/SHA1orN7eHE?start=275&end=483 "Hands Routine")
+[![hands routine](/images/hands_stand_drill.png)](https://youtu.be/SHA1orN7eHE?start=275&end=483 "Hands Routine")
 
 **Duration:** 15 minutes
 
@@ -72,7 +72,7 @@ Fielding is really three fold: technique, footwork, and timing.  The drills belo
 - Want to start heading towards your target.
 
 #### Flamingo Drill
-[![hands routine](/images/hands_flamingo_drill.png?height=300px&width=600px)](https://youtu.be/eD5FBGs6jMY "Hands Routine")
+[![hands routine](/images/hands_flamingo_drill.png)](https://youtu.be/eD5FBGs6jMY "Hands Routine")
 
 **Duration:** 15 minutes
 
