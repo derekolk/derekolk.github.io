@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plans on site</title>
+    <link>/baseball/2020/plans/</link>
+    <description>Recent content in Plans on site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/baseball/2020/plans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

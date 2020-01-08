@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/baseball/2020/preseason/</guid>
-      <description>Goals Objectives </description>
+      <description>Goals Objectives Skills Practice Plans </description>
     </item>
     
     <item>
@@ -25,7 +25,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/baseball/2020/regular/</guid>
-      <description>Goals Objectives </description>
+      <description>Goals Objectives Skills Practice Plans </description>
+    </item>
+    
+    <item>
+      <title>Playoffs</title>
+      <link>/baseball/2020/playoffs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/baseball/2020/playoffs/</guid>
+      <description>Goals Objectives Skills Practice Plans </description>
     </item>
     
   </channel>

@@ -32,7 +32,7 @@
 	"title": "Preseason",
 	"tags": [],
 	"description": "",
-	"content": "Goals Objectives "
+	"content": "Goals Objectives Skills Practice Plans "
 },
 {
 	"uri": "/baseball/2019/retrospective/",
@@ -42,11 +42,32 @@
 	"content": "What went well? Where could we have done better? Or where should we improve? If there were 2 things we could have done differently, what would they be and why? "
 },
 {
+	"uri": "/baseball/2020/training/fielding/",
+	"title": "Fielding",
+	"tags": [],
+	"description": "",
+	"content": "Motivation Our motto for infielders this year is \u0026ldquo;You play the ball \u0026hellip; don't let the ball play you.\u0026rdquo;\nFielding is really three fold: technique, footwork, and timing. The drills below are intended to address one of these areas. From a coaching perspective, we will need to introduce them in that order to be as efficient as possible and ensure skills are mastered before introducing new topics.\nHands Routine Overall Objective: TBD\nKnee Drill \nObjective:\n Work on good posture Soft hands Eyes on the ball Good transfers Consistently catching the ball on index finger  Setup:\n Partner up Start on your knees six inches away from outfield grass (forces you to get your hands out in front of you.) Hands out over the lip, chest over (good posture), and hips back Field the ball and bring it to your chest or logo Elbows turn out to get into good throwing position Dart throw it back to partner  Progressions:\n Barehand Flat Glove Regular Glove  Callouts:\n Need to stay focus and have good reps You want to be able to see the ball and your hands at all times Never close the glove when fielding in the the framework of your body  "
+},
+{
 	"uri": "/baseball/2020/regular/",
 	"title": "Regular Season",
 	"tags": [],
 	"description": "",
-	"content": "Goals Objectives "
+	"content": "Goals Objectives Skills Practice Plans "
+},
+{
+	"uri": "/baseball/2020/training/pitching/",
+	"title": "Pitching",
+	"tags": [],
+	"description": "",
+	"content": "Motivation Drills Wall Drill Reverse Wall Drill Bucket Drill "
+},
+{
+	"uri": "/baseball/2020/playoffs/",
+	"title": "Playoffs",
+	"tags": [],
+	"description": "",
+	"content": "Goals Objectives Skills Practice Plans "
 },
 {
 	"uri": "/baseball/2020/training/",
@@ -54,6 +75,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Training "
+},
+{
+	"uri": "/baseball/2020/training/outfield/",
+	"title": "Outfield",
+	"tags": [],
+	"description": "",
+	"content": "Motivation Drills "
+},
+{
+	"uri": "/baseball/2020/plans/",
+	"title": "Plans",
+	"tags": [],
+	"description": "",
+	"content": "Plans "
 },
 {
 	"uri": "/categories/",
